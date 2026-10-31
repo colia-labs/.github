@@ -10,16 +10,17 @@ ColIA is an open-source AI lab and community from Colombia. We learn by building
 
 | Project | What it is | Status |
 |---|---|---|
-| **ColIA-Local** | An app that runs AI models on your computer, with no account and no cloud | In development |
+| **ColIA-Local** | An app built on llama.cpp that runs AI models on your computer with recipes: models with settings measured on real hardware. One click measures your computer and shares the results, so anyone can help improve the recipes. | In development |
 | **Sibundoy-Translate-1.7B** | A small model that translates English into Spanish | In preparation, on [Hugging Face](https://huggingface.co/colia-labs) |
 
 ### How we work
 
 - **Open.** Code, models and recipes are published under open licenses.
-- **Measured.** Every claim comes with numbers, measured on modest hardware.
+- **Measured.** Every claim comes with numbers, measured on real hardware, from a modest laptop to a powerful workstation.
 - **Bilingual.** Everything ships in English and Spanish. The Spanish is native, not a translation.
 - **Local.** What we make runs on your computer, without depending on a cloud.
 - **Community.** Anyone who wants to learn, explore or contribute is welcome, whatever they know.
+- **Places.** Our models are named after places in Colombia that deserve to be better known: beautiful, diverse and full of talent.
 
 ### Join us
 
@@ -42,16 +43,17 @@ ColIA es un laboratorio y una comunidad colombiana de IA abierta, donde se apren
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
-| **ColIA-Local** | Una app que pone modelos de IA en tu equipo, sin cuenta y sin nube | En desarrollo |
+| **ColIA-Local** | Una app sobre llama.cpp que pone modelos de IA en tu equipo con recetas: modelos con ajustes medidos en equipos reales. Con un clic mides tu equipo y compartes los resultados, para que cualquiera ayude a mejorar las recetas. | En desarrollo |
 | **Sibundoy-Translate-1.7B** | Un modelo pequeño que traduce de inglés a español | En preparación, en [Hugging Face](https://huggingface.co/colia-labs) |
 
 ### Cómo trabajamos
 
 - **Abierto.** El código, los modelos y las recetas se publican con licencia abierta.
-- **Medido.** Cada afirmación lleva cifras, medidas en hardware modesto.
+- **Medido.** Cada afirmación lleva cifras, medidas en equipos reales, desde un portátil modesto hasta una estación de trabajo potente.
 - **Bilingüe.** Todo sale en inglés y en español. El español es nativo, no una traducción.
 - **Local.** Lo que hacemos funciona en tu equipo, sin depender de una nube.
 - **Comunidad.** Quien quiera aprender, explorar o aportar es bienvenido, sepa mucho o poco.
+- **Lugares.** Nuestros modelos llevan el nombre de lugares de Colombia que merecen ser más conocidos: hermosos, diversos y llenos de talento.
 
 ### Únete
 
