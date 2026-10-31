@@ -25,6 +25,7 @@ ColIA is an open-source AI lab and community from Colombia. We learn by building
 
 You don't need to be an expert. Here we learn by doing, in the open.
 
+- **Visit** [colia.org](https://colia.org).
 - **Talk to us** in [Discussions](https://github.com/orgs/colia-labs/discussions): questions, ideas or whatever you're building.
 - **Contribute** by following the [contributing guide](https://github.com/colia-labs/.github/blob/main/CONTRIBUTING.md).
 - **Read the [code of conduct](https://github.com/colia-labs/.github/blob/main/CODE_OF_CONDUCT.md)**: it's short.
@@ -56,6 +57,7 @@ ColIA es un laboratorio y una comunidad colombiana de IA abierta, donde se apren
 
 No hace falta ser experto. Aquí aprendemos haciendo y en público.
 
+- **Visita** [colia.org/es](https://colia.org/es/).
 - **Habla con nosotros** en [Discussions](https://github.com/orgs/colia-labs/discussions): preguntas, ideas o lo que estés construyendo.
 - **Aporta** siguiendo la [guía para aportar](https://github.com/colia-labs/.github/blob/main/CONTRIBUTING.md).
 - **Lee las [normas de convivencia](https://github.com/colia-labs/.github/blob/main/CODE_OF_CONDUCT.md)**: son cortas.
