@@ -16,7 +16,7 @@ ColIA is an open-source AI lab and community from Colombia. We learn by building
 ### How we work
 
 - **Open.** Code, models and recipes are published under open licenses.
-- **Measured.** Every claim comes with numbers, measured on real hardware, from a modest laptop to a powerful workstation.
+- **Measured.** Every claim comes with numbers, measured on real hardware: from a laptop without a graphics card to a workstation with several.
 - **Bilingual.** Everything ships in English and Spanish. The Spanish is native, not a translation.
 - **Local.** What we make runs on your computer, without depending on a cloud.
 - **Community.** Anyone who wants to learn, explore or contribute is welcome, whatever they know.
@@ -49,7 +49,7 @@ ColIA es un laboratorio y una comunidad colombiana de IA abierta, donde se apren
 ### Cómo trabajamos
 
 - **Abierto.** El código, los modelos y las recetas se publican con licencia abierta.
-- **Medido.** Cada afirmación lleva cifras, medidas en equipos reales, desde un portátil modesto hasta una estación de trabajo potente.
+- **Medido.** Cada afirmación lleva cifras, medidas en equipos reales: desde un portátil sin tarjeta gráfica hasta una estación de trabajo con varias.
 - **Bilingüe.** Todo sale en inglés y en español. El español es nativo, no una traducción.
 - **Local.** Lo que hacemos funciona en tu equipo, sin depender de una nube.
 - **Comunidad.** Quien quiera aprender, explorar o aportar es bienvenido, sepa mucho o poco.
