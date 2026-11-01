@@ -11,7 +11,7 @@ ColIA is an open-source AI lab and community from Colombia. We learn by building
 | Project | What it is | Status |
 |---|---|---|
 | **ColIA-Local** | An app built on llama.cpp that runs AI models on your computer with recipes: models with settings measured on real hardware. One click measures your computer and shares the results, so anyone can help improve the recipes. | In development |
-| **Sibundoy-Translate-1.7B** | A small model that translates English into Spanish | In preparation, on [Hugging Face](https://huggingface.co/colia-labs) |
+| **Sibundoy-Translate-1.7B** | A small model that translates English into Spanish | Coming soon, on [Hugging Face](https://huggingface.co/colia-labs) |
 
 ### How we work
 
@@ -44,7 +44,7 @@ ColIA es un laboratorio y una comunidad colombiana de IA abierta, donde se apren
 | Proyecto | Qué es | Estado |
 |---|---|---|
 | **ColIA-Local** | Una app sobre llama.cpp que pone modelos de IA en tu equipo con recetas: modelos con ajustes medidos en equipos reales. Con un clic mides tu equipo y compartes los resultados, para que cualquiera ayude a mejorar las recetas. | En desarrollo |
-| **Sibundoy-Translate-1.7B** | Un modelo pequeño que traduce de inglés a español | En preparación, en [Hugging Face](https://huggingface.co/colia-labs) |
+| **Sibundoy-Translate-1.7B** | Un modelo pequeño que traduce de inglés a español | Próximamente, en [Hugging Face](https://huggingface.co/colia-labs) |
 
 ### Cómo trabajamos
 
