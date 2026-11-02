@@ -33,7 +33,7 @@ You don't need to be an expert. Here we learn by doing, in the open.
 - **Talk to us** in [Discussions](https://github.com/orgs/colia-labs/discussions): questions, ideas or whatever you're building.
 - **Contribute** by following the [contributing guide](https://github.com/colia-labs/.github/blob/main/CONTRIBUTING.md).
 - **Read the [code of conduct](https://github.com/colia-labs/.github/blob/main/CODE_OF_CONDUCT.md)**: it's short.
-- **Follow us** on [X](https://x.com/colialabs) and [LinkedIn](https://www.linkedin.com/company/colia-labs).
+- **Follow us** on [X](https://x.com/colialabs), [Instagram](https://www.instagram.com/colialabs) and [LinkedIn](https://www.linkedin.com/company/colia-labs).
 - **Write to us** at hola@colia.org.
 
 ## Español
@@ -67,5 +67,5 @@ No hace falta ser experto. Aquí aprendemos haciendo y en público.
 - **Habla con nosotros** en [Discussions](https://github.com/orgs/colia-labs/discussions): preguntas, ideas o lo que estés construyendo.
 - **Aporta** siguiendo la [guía para aportar](https://github.com/colia-labs/.github/blob/main/CONTRIBUTING.md).
 - **Lee las [normas de convivencia](https://github.com/colia-labs/.github/blob/main/CODE_OF_CONDUCT.md)**: son cortas.
-- **Síguenos** en [X](https://x.com/colialabs) y en [LinkedIn](https://www.linkedin.com/company/colia-labs).
+- **Síguenos** en [X](https://x.com/colialabs), en [Instagram](https://www.instagram.com/colialabs) y en [LinkedIn](https://www.linkedin.com/company/colia-labs).
 - **Escríbenos** a hola@colia.org.
