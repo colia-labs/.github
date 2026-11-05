@@ -10,10 +10,10 @@ ColIA is an open-source AI lab and community from Colombia. We learn by building
 
 | Project | What it is | Status |
 |---|---|---|
-| **A model** | A small model that runs on your own computer. It's named after a place in Colombia. | Coming soon |
+| **[Sibundoy-Translate-1.7B](https://colia.org/blog/sibundoy-translate-1-7b/)** | Our first model. It translates English into Spanish on your own computer, and keeps HTML and Markdown intact. [Model](https://huggingface.co/colia-labs/Sibundoy-Translate-1.7B) · [Code](https://github.com/colia-labs/sibundoy-translate) | Available |
 | **An app** | To use AI models on your own computer, with settings measured on consumer hardware. | In development |
 
-We'll introduce both on [colia.org](https://colia.org) over the next few days. Be the first to know on [Discord](https://colia.org/discord).
+We'll introduce the app on [colia.org](https://colia.org) when it's ready. Be the first to know on [Discord](https://colia.org/discord).
 
 ### How we work
 
@@ -43,10 +43,10 @@ ColIA es un laboratorio y una comunidad colombiana de IA abierta, donde se apren
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
-| **Un modelo** | Un modelo pequeño que funciona en tu propio equipo. Lleva el nombre de un lugar de Colombia. | Próximamente |
+| **[Sibundoy-Translate-1.7B](https://colia.org/es/blog/sibundoy-translate-1-7b/)** | Nuestro primer modelo. Traduce de inglés a español en tu propio equipo y conserva el HTML y el Markdown. [Modelo](https://huggingface.co/colia-labs/Sibundoy-Translate-1.7B) · [Código](https://github.com/colia-labs/sibundoy-translate) | Disponible |
 | **Una app** | Para usar modelos de IA en tu propio equipo, con ajustes medidos en equipos comunes. | En desarrollo |
 
-Los presentaremos en [colia.org](https://colia.org/es/) en los próximos días. Entérate primero en [Discord](https://colia.org/discord).
+Presentaremos la app en [colia.org](https://colia.org/es/) cuando esté lista. Entérate primero en [Discord](https://colia.org/discord).
 
 ### Cómo trabajamos
 
